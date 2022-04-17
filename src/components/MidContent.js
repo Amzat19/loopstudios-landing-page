@@ -1,4 +1,4 @@
-import interactivedesktop from "../images/desktop/image-interactive.jpg";
+// import interactivedesktop from "../images/desktop/image-interactive.jpg";
 import interactive from "../images/mobile/image-interactive.jpg";
 import MidContentStyles from "../css/MidContentStyles";
 
