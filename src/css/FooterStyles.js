@@ -22,6 +22,10 @@ color: var(--White);
     grid-gap: 20px;
     font-family: var(--Josefin);
     margin-bottom: 30px;
+
+    p:hover {
+        cursor: pointer;
+      }
   }
 
   .Nav-footer > p:hover::after {

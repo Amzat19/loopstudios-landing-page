@@ -6,7 +6,7 @@ const HeaderStyles = styled.div`
 background-image: url(${hero});
 background-repeat: no-repeat;
 background-size: cover;
-min-width: 100vw;
+width: 100vw;
 min-height: 450px;
 margin-bottom: 6rem;
 
@@ -31,13 +31,13 @@ visibility: hidden;
 
 .logo {
   visibility: hidden;
+  width:20px;
 }
 
 .open {
   position: absolute;
   left: 0;
-   margin-top: -20px;/*
-  margin-right: -40px; */
+   margin-top: -20px;
   height: 100vh;
   width: 100vw;
   background-color: var(--Black);
@@ -57,6 +57,7 @@ visibility: hidden;
   top: 10%;
   left: 10%;
   visibility: visible;
+  width: 192px;
 }
 .Nav-p {
   position: absolute;
@@ -121,6 +122,10 @@ visibility: hidden;
       display: grid;
       grid-template-columns: repeat(5,60px);
       grid-gap: 15px;
+
+      p:hover {
+        cursor: pointer;
+      }
     }
    .Nav-p > p {
           justify-self: center;
