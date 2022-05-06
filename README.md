@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution URL](https://github.com/Amzat19/loopstudios-landing-page)
+- Live Site URL: [My live site URL](https://hilarious-heliotrope-47c329.netlify.app/)
 
 ## My process
 
@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [My FrontendMentor Account Link](https://www.frontendmentor.io/profile/Amzat19)
+- Twitter - [My Twitter Link](https://www.twitter.com/Kunmi49693753)
